@@ -9,5 +9,7 @@ public class ServiceImpl implements IService {
     @Override
     public void Fun1(String i) {
         String a ;
+        String bbbdev;
     }
+
 }
